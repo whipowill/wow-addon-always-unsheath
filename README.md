@@ -10,7 +10,7 @@ This only works for Hunters.
 
 ## Install
 
--Download this [zip](https://github.com/whipowill/wow-addon-playerbot/archive/master.zip) into your ``C:\\Games\WoW\Interface\Addons\PlayerBots`` directory
+- Download this [zip](https://github.com/whipowill/wow-addon-playerbot/archive/master.zip) into your ``C:\\Games\WoW\Interface\Addons\PlayerBots`` directory
 - Copy the sound files to ``C:\\Games\WoW\Data\enUS\Interface\`` to silence the sheathing
 
 ## References
